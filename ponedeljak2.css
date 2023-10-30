@@ -1,0 +1,95 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.glavni{
+    width: 100%;
+    background-color: #FFB502;
+    padding: 20px;
+}
+.prvi, .drugi, .treci, .cetvrti{
+    display: inline;
+    position: relative;
+    padding: 10px;
+
+}
+.prvi {
+    background-color: #D8D8D8;
+    padding: 10px;
+}
+.pomocni{
+    background-color: #F5F4F5;
+    width: 250px;
+    position: relative;
+    left: 12%;
+    bottom: 13px;
+
+    
+}
+.veliki{
+    background-color: bisque;
+    position: relative;
+    
+}
+.meni2{
+    background-color: #D8D8D8;
+    padding: 10px;
+}
+.box1, .box2, .box3{
+    width:200px;
+    height:200px ;
+}
+.box1{
+    background-color: firebrick;
+}
+.box2{
+    background-color: darkgoldenrod;
+}
+.box3{
+    background-color: midnightblue;
+}
+
+.box11{
+    background-color: firebrick;
+}
+.box22{
+    background-color: darkgoldenrod;
+    position: relative;
+    top: -30px;
+    left: 80px;
+}
+.box33{
+    background-color: midnightblue;
+    position: relative;
+    top: -160px;
+    left: 160px;
+}
+.box11, .box22, .box33{
+    width:200px;
+    height:200px;
+}
+.box111, .box222, .box333{
+    width: 200px;
+    height: 200px;
+    position: relative;
+}
+.boxie3{
+    position: relative;
+    left: 75%;
+}
+.box111{
+    background-color: firebrick;
+    z-index: 100;
+}
+.box222{
+    background-color: darkgoldenrod;
+    position: relative;
+    z-index:1;
+    top: -120px;
+    left: -60px;
+}
+.box333{
+    background-color: midnightblue;
+    position: relative;
+    top: -240px;
+    left: -120px;
+}

@@ -1,0 +1,23 @@
+.prva{
+        position: relative;
+        top: 50px;
+        left: 100px;
+        margin-bottom: 30px;
+}
+
+.druga{
+    position: absolute;
+    top: 15px;
+    right: 10px;
+    width: 200px;
+
+}
+.treca{
+    position: relative;
+    bottom: 10px;
+
+}
+.dole{
+    position: relative;
+    text-align: right;
+}
